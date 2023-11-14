@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Surendra/jars/importjars/commons-digester3-3.2-with-deps.jar"/>
+	<classpathentry kind="lib" path="C:/Surendra/jars/importjars/commons-logging-1.1.1-api.jar"/>
+	<classpathentry kind="lib" path="C:/Surendra/jars/importjars/jstl.jar"/>
+	<classpathentry kind="lib" path="C:/Surendra/jars/importjars/jstl-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Surendra/jars/importjars/mysql-connector-java-5.1.47.jar"/>
+	<classpathentry kind="lib" path="C:/Surendra/jars/importjars/org.springframework.asm-3.1.0.release.jar"/>
+	<classpathentry kind="lib" path="C:/Surendra/jars/importjars/org.springframework.beans-3.1.2.release.jar"/>
+	<classpathentry kind="lib" path="C:/Surendra/jars/importjars/org.springframework.context-3.1.0.release.jar"/>
+	<classpathentry kind="lib" path="C:/Surendra/jars/importjars/org.springframework.core-3.1.0.release.jar"/>
+	<classpathentry kind="lib" path="C:/Surendra/jars/importjars/org.springframework.expression-3.1.0.release.jar"/>
+	<classpathentry kind="lib" path="C:/Surendra/jars/importjars/org.springframework.web.servlet-3.0.1.release.jar"/>
+	<classpathentry kind="lib" path="C:/Surendra/jars/importjars/org.springframework.web-3.0.1.release.jar"/>
+	<classpathentry kind="lib" path="C:/Surendra/jars/importjars/servlet-api.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
